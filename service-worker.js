@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/newsoutloud/precache-manifest.aaa53cdcb32ba5906a0285ecdaaf1863.js"
+  "/newsoutloud/precache-manifest.4c50aef7409dc65e03491c23a2643e1a.js"
 );
 
 self.addEventListener('message', (event) => {
