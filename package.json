@@ -1,6 +1,6 @@
 {
   "homepage": "http://Debaprasad-dez.github.io/newsoutloud",
-  "name": "covid",
+  "name": "news",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,7 +11,8 @@
     "react": "^16.13.1",
     "react-countup": "^4.3.3",
     "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.2"
+    "react-scripts": "^3.4.2",
+    "words-to-numbers": "^1.5.1"
   },
   "scripts": {
     "predeploy": "npm run build",
