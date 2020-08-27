@@ -61,6 +61,8 @@ export default makeStyles((theme) => ({
     [theme.breakpoints.down('sm')]: {
       flexDirection: 'column-reverse',
       textAlign: 'center',
+      width:'50%',
+      padding: '5%',
     },
   },
   hyperlink:{
